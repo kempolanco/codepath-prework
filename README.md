@@ -61,7 +61,7 @@ I would add additional features like titling for every round with time shortenin
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://youtu.be/ZAI3IYH1Y_M)
 
 
 ## License
